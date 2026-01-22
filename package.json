@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@mastra/core": "^1.0.4",
+    "@mastra/libsql": "^1.0.0",
+    "@mastra/loggers": "^1.0.0",
+    "@mastra/memory": "^1.0.0",
+    "@mastra/observability": "^1.0.0",
+    "mastra": "^1.0.1",
+    "zod": "^4.3.5"
+  }
+}
